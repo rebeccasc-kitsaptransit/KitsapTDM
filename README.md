@@ -4,7 +4,7 @@ Evaluate traffic patterns through commercial corridors on designated zones creat
 
 ## Notebooks
 
-| Notebook | Focus | Description |
+| Notebook | Analysis | Description |
 |----------|-------|-------------|
 | `KT_O_COMM.ipynb` | Origin = Commercial | Trips originating in commercial zones (identified zone set) |
 | `KITSAP_D_COMM.ipynb` | Destination = Commercial | Trips ending in commercial zones |
@@ -55,7 +55,7 @@ Evaluate traffic patterns through commercial corridors on designated zones creat
 
 Streetlight Data O-D and O-M-D files (working list):
 - `2014261_BI_Corridor_Volume_2025_dayparts_purpose.csv` - Aggregated trip purpose data
-- `2014231_BI_Corridor_Volume_2025_dayparts\2014231_BI_Corridor_Volume_2025_dayparts_mf_all.csv` - Corridor volume broken up by day parts
+- `2014231_BI_Corridor_Volume_2025_dayparts\2014231_BI_Corridor_Volume_2025_dayparts_mf_all.csv` - Corridor volume by day
 - `2013907_BI_Corridor_Volume_2024_mf_all.csv` - Middle filter (corridor) volume data
 - `2013907_BI_Corridor_Volume_2024_mf_traveler_trip_purpose_all.csv` - Detailed trip purpose data
 - `2014263_BI_Commecial_OD_all_vehicles_od_trip_all.csv` - Commercial origin-destination data
